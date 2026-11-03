@@ -1,3 +1,3 @@
 # English for Designers
 
-- [Letterform and haiku](letterform-haiku.md)
+- [Letterform and haiku](letterform-haiku)
