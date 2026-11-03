@@ -2,7 +2,7 @@
 
 *From a hand-drawn sketch to a digital letterform*
 
-![My letterform Q](Q.svg)
+![My letterform Q](img/q.svg)
 
 ## Hand-drawn Starting Point
 
