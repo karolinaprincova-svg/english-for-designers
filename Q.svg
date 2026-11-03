@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 440" width="350" height="440">
+  <title>Q</title>
+  <!-- Tělo písmene: zaoblený obdélník s vnitřní kontrapunkcí -->
+  <path fill="#1a1a1a" fill-rule="evenodd" d="
+    M130 5 H257 A85 85 0 0 1 342 90 V345 A85 85 0 0 1 257 430 H130 A85 85 0 0 1 45 345 V90 A85 85 0 0 1 130 5 Z
+    M180 95 H200 A40 40 0 0 1 240 135 V295 A40 40 0 0 1 200 335 H180 A40 40 0 0 1 140 295 V135 A40 40 0 0 1 180 95 Z"/>
+  <!-- Diagonální ocásek -->
+  <polygon fill="#1a1a1a" points="5,435 70,435 228,253 165,253"/>
+</svg>
